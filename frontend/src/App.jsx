@@ -12,7 +12,7 @@ export default function App() {
       <div className="min-h-screen bg-black text-white flex flex-col">
         <nav className="bg-gray-900 p-4 sticky top-0 z-50">
           <div className="container mx-auto flex justify-between">
-            <h1 className="text-xl font-bold">Aniket</h1>
+            <h1 className="text-xl font-bold">Aniket Singh</h1>
             <div className="space-x-4">
               <Link to="/" className="hover:text-yellow-500">Home</Link>
               <Link to="/about" className="hover:text-yellow-500">About</Link>
